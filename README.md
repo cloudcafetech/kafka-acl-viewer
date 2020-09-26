@@ -1,3 +1,5 @@
+
+
 # Kafka ACL Viewer
 [![Go Report Card](https://goreportcard.com/badge/github.com/bjorngylling/kafka-acl-viewer)](https://goreportcard.com/report/github.com/bjorngylling/kafka-acl-viewer) [![Build](https://github.com/bjorngylling/kafka-acl-viewer/workflows/build/badge.svg)](https://github.com/bjorngylling/kafka-acl-viewer/actions)
 
@@ -17,3 +19,4 @@ all topics in the cluster, `--topic='*' --operation describe`.
 ## Reference
 
 https://dzone.com/articles/kafka-authorization-as-a-graph
+https://medium.com/swlh/running-kafka-on-azure-kubernetes-service-d8d6882ade8
